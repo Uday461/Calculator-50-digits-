@@ -13,3 +13,6 @@ calc> 123478763783847239874 * 34837472384723894732 - Multiplication
 calc> 1233489374983933498398095/3487384 - Division
 
 calc> Exit - Quit.
+
+# OUTPUT:
+![Screenshot (44)](https://user-images.githubusercontent.com/62476244/185735936-306d0b41-146f-4e74-b130-01b4ef091e9e.png)
